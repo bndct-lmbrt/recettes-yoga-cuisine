@@ -2,7 +2,7 @@
 author: Bénédicte Lambert
 description: 
 image_url: https://github.com/bndct-lmbrt/recettes-yoga-cuisine/raw/master/medias/caviar-olives.jpg
-title: Gâteau à la carotte végétalien, sans gluten, sans sucre blanc
+title: Caviar d'olives
 licence: CC-by-sa
 categorie: accompagnement
 niveau: débutant
