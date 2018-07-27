@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/terrine-vegetale.jpg
+image_url: https://github.com/bndct-lmbrt/recettes-yoga-cuisine/raw/master/medias/terrine-vegetale.jpg
 title: Terrine végétale
 licence: CC-by-sa
 categorie: entrée
