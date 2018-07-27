@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/recettes-yoga-cuisine/raw/master/medias/gateau-carottes-vegan.jpg
+image_url: https://github.com/bndct-lmbrt/recettes-yoga-cuisine/raw/master/medias/gateau-carottes.jpg
 title: Gâteau à la carotte végétalien, sans gluten, sans sucre blanc
 licence: CC-by-sa
 categorie: dessert
