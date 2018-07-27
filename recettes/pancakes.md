@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/pancakes.jpg
+image_url: https://github.com/bndct-lmbrt/recettes-yoga-cuisine/raw/master/medias/pancakes.jpg
 title: Pancakes et pancakes banane chocolat
 licence: CC-by-sa
 categorie: petit-déjeuner

@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/dhal.jpg
+image_url: https://github.com/bndct-lmbrt/recettes-yoga-cuisine/raw/master/medias/dhal.jpg
 title: Dhal de lentilles corail
 licence: CC-by-sa
 categorie: plat

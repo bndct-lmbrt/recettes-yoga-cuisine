@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/peches-verveine.jpg
+image_url: https://github.com/bndct-lmbrt/recettes-yoga-cuisine/raw/master/medias/peches-verveine.jpg
 title: Pêche compotées à la verveine
 licence: CC-by-sa
 categorie: fruits

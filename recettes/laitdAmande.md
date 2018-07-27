@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/lait-vegetal.jpg
+image_url: https://github.com/bndct-lmbrt/recettes-yoga-cuisine/raw/master/medias/lait-vegetal.jpg
 title: Lait d'amandes et laits végétaux 
 licence: CC-by-sa
 categorie: boisson

@@ -1,7 +1,7 @@
 ---
-author: Bénédicte Lambert
+author: Florence Krol
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/falafels.jpg
+image_url: https://github.com/bndct-lmbrt/recettes-yoga-cuisine/raw/master/medias/falafels.jpg
 title: Falafels
 licence: CC-by-sa
 categorie: plat

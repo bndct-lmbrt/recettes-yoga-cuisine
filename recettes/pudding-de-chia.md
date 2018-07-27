@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/pudding-chia.jpg
+image_url: https://github.com/bndct-lmbrt/recettes-yoga-cuisine/raw/master/medias/pudding-chia.jpg
 title: Pudding de graines de chia
 licence: CC-by-sa
 categorie: petit-déjeuner/dessert

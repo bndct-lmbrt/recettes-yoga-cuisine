@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/gnocchis-patate-douce.jpg
+image_url: https://github.com/bndct-lmbrt/recettes-yoga-cuisine/raw/master/medias/gnocchis-patate-douce.jpg
 title: Gnocchis de patate douce
 licence: CC-by-sa
 categorie: plat

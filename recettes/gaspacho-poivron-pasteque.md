@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/gaspacho-poivron-pasteque.jpg
+image_url: https://github.com/bndct-lmbrt/recettes-yoga-cuisine/raw/master/medias/gaspacho-poivron-pasteque.jpg
 title: Gaspacho de poivron et pastèque
 licence: CC-by-sa
 categorie: entrée

@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/fenouil.jpg
+image_url: https://github.com/bndct-lmbrt/recettes-yoga-cuisine/raw/master/medias/fenouil.jpg
 title: Poêlée de fenouil à l'ail
 licence: CC-by-sa
 categorie: accompagnement

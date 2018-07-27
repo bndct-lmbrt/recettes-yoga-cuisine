@@ -1,7 +1,7 @@
 ---
 author: Jean-François Basse
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/pain.jpg
+image_url: https://github.com/bndct-lmbrt/recettes-yoga-cuisine/raw/master/medias/pain.jpg
 title: Pain sans gluten
 licence: CC-by-sa
 categorie: accompagnement

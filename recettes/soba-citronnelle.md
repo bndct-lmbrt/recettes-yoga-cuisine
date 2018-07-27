@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/soba-citronnelle.jpg
+image_url: https://github.com/bndct-lmbrt/recettes-yoga-cuisine/raw/master/medias/soba-citronnelle.jpg
 title: Nouilles soba au poivron et à la citronnelle
 licence: CC-by-sa
 categorie: plat

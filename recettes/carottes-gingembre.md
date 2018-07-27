@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/carottes-gingembre.jpg
+image_url: https://github.com/bndct-lmbrt/recettes-yoga-cuisine/raw/master/medias/carottes-gingembre.jpg
 title: Carottes au gingembre et coriandre
 licence: CC-by-sa
 categorie: légume

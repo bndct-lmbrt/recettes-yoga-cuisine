@@ -1,7 +1,7 @@
 ---
 author: Florence Krol
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/chocolat-cru.jpg
+image_url: https://github.com/bndct-lmbrt/recettes-yoga-cuisine/raw/master/medias/chocolat-cru.jpg
 title: Chocolat cru
 licence: CC-by-sa
 categorie: chocolat

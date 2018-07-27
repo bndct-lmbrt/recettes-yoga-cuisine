@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/pate-tartiner.jpg
+image_url: https://github.com/bndct-lmbrt/recettes-yoga-cuisine/raw/master/medias/pate-tartiner.jpg
 title: Pâte à tartiner
 licence: CC-by-sa
 categorie: petit-déjeuner/Goûter

@@ -1,7 +1,7 @@
 ---
-author: Bénédicte Lambert
+author: Jean-François Basse
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/jus-smoothies.jpg
+image_url: https://github.com/bndct-lmbrt/recettes-yoga-cuisine/raw/master/medias/jus-smoothies.jpg
 title: Jus et smoothies
 licence: CC-by-sa
 categorie: jus

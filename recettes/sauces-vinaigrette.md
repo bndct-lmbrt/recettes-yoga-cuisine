@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/sauces-vinaigrette.jpg
+image_url: https://github.com/bndct-lmbrt/recettes-yoga-cuisine/raw/master/medias/sauces-vinaigrette.jpg
 title: Sauces vinaigrette
 licence: CC-by-sa
 categorie: accompagnement
