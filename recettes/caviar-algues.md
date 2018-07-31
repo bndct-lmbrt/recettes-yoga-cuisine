@@ -23,7 +23,7 @@ layout: page
 * jus de citron
 * fleur de sel
 * ail
-* huile de noix
+* huile de noix  
 
 
 "Le tartare d'algues se fait selon les goûts de chacun".  Florence
