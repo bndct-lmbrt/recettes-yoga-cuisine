@@ -1,7 +1,7 @@
 ---
 author: Florence Krol
 description: 
-image_url: https://github.com/bndct-lmbrt/recettes-yoga-cuisine/raw/master/medias/carviar-algues.jpg
+image_url: https://github.com/bndct-lmbrt/recettes-yoga-cuisine/raw/master/medias/caviar-algues.jpg
 title: Caviar d'algues
 licence: CC-by-sa
 categorie: entrée
