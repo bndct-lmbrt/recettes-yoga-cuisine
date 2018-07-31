@@ -24,7 +24,9 @@ layout: page
 * fleur de sel
 * ail
 * huile de noix
-"Le tartare d'algues se fait selon les goûts de chacun".  
+
+
+"Le tartare d'algues se fait selon les goûts de chacun".  Florence
 
 
 **Déroulé**  
