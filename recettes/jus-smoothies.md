@@ -60,10 +60,6 @@ Le Cacaoté
 
 **Déroulé**  
 
-Mettre 
+Mettre dans le blender.  
   
 
-
-**Astuces** 
-
-Remplacer la coriandre en grains par du cumin.  
